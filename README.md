@@ -6,8 +6,7 @@ An end-to-end multi-branch enterprise network simulated in **Cisco Packet Tracer
 
 ## 📌 Topology Overview
 
-![Network Topology](Packet Tracer.png)
-
+![Network Topology](<Packe_Tracer/Packet Tracer.png>)
 The topology models a distributed enterprise environment with three primary segments:
 1. **Branch Office**: Departmental network segmented into multiple VLANs (IT, HR, Sales, and Branch DHCP) using a Cisco 2960 Switch and 2911 Router.
 2. **Headquarters (HQ)**: Core network managing WAN transit links, WLAN infrastructure via Access Points, and centralized servers (DNS, DHCP).
