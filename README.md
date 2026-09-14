@@ -45,6 +45,7 @@ The topology models a distributed enterprise environment with three primary segm
 ## 🗂 File Structure
 
 ```text
-├── topology.pkt          # Complete Cisco Packet Tracer simulation file
-├── topology.png          # Network topology architecture screenshot
-└── README.md             # Project documentation and specifications
+├── Packe_Tracer/
+│   ├── Packet Tracer.pkt       # Complete Cisco Packet Tracer simulation file
+│   └── Packet Tracer.png       # Network topology architecture screenshot
+└── README.md                   # Project documentation and specifications
